@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Radiant Season Tribute">
+  <rect width="64" height="64" rx="14" fill="#05070d"/>
+  <path d="M15 41c11-23 21-23 34 0" fill="none" stroke="#f4f7fb" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="32" cy="25" r="6" fill="#f6d77a"/>
+  <path d="M17 47h30" stroke="#b6d8b8" stroke-width="3" stroke-linecap="round"/>
+</svg>
